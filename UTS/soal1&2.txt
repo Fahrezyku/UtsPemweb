@@ -1,0 +1,8 @@
+jawaban UTS Pemrograman Web
+
+1.Framework pada pengembangan aplikasi adalah suatu kerangka kerja (structure or skeleton) yang menyediakan berbagai alat, komponen, aturan, dan konvensi yang dapat membantu pengembang dalam membangun aplikasi dengan lebih cepat dan efisien. 
+2.A)laboratorium
+ B) - ezi = membuat website
+   - ihza = membuat source code
+   - Qodrat = membuat database
+ C)pengecekan laboran antara ketersedian barang untuk diperbaiki atau dikembalikan lagi ke laboran untuk pengajuan,karena maintenace itu sendiri dia lebih fokus pada bagian kerusakan sehingga apabila bahan atau barang ada yg bermasalah maka bisa langsung di perbaiki apabila bahan itu tersedia apabila belum ada nanti minta pengajuan terlebih dahalu kepala Lab
